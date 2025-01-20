@@ -1,0 +1,47 @@
+---
+type: Procedure
+belongs_to: "[[run-the-season]]"
+related_to:
+  - "[[summer-tournament-2026-debrief]]"
+  - "[[stewarded-parking-plan]]"
+  - "[[wet-weather-schedule]]"
+_organized: true
+---
+
+# Run Tournament Day
+
+How to run a day of the summer tournament at Millrace Lane. Written by Sam Okonjo and Hazel after 2025 and revised after the [[summer-tournament-2026-debrief]]. Whoever organises 2027 should update it afterwards.
+
+## Inputs
+
+- Final schedule and pitch plan, printed and in the tournament channel.
+- Volunteer rota from Clubfold with names per slot ([[tournament-volunteer-plan-2026]]).
+- Risk assessment, signed off by the welfare officer ([[tournament-risk-assessment-2026]]).
+- The council-accepted [[stewarded-parking-plan]].
+- First aid booking confirmation; toilet delivery confirmed the day before.
+- Float for the tea hut and raffle, from the treasurer.
+
+## Steps
+
+1. **07:00 set-up.** Lead steward cones the car park and verges before anyone arrives. Groundsman and pitch marshals check goalposts are weighted and nets secure. Mark the lost-child point at the pavilion door.
+2. **07:45 briefing.** Organiser briefs all volunteers in 10 minutes: schedule, lost-child rule, lightning rule, who decides on weather, event phone number.
+3. **08:30 gates.** Stewards at each end of Millrace Lane and the gate. Visiting teams sign in at the results desk; check every team has a named adult in charge.
+4. **During play.** Results desk updates the board and the tournament channel every round. Pitch marshals keep spectators behind rope lines. Photos only by the club photographer under the [[photo-and-social-media-guidance]].
+5. **Weather.** At the first thunder, all play stops; resume 30 minutes after the last. For rain, follow the [[wet-weather-schedule]]: pitch 2 closes first, games shorten, plates go before finals. Organiser and fixtures secretary decide together and announce at once.
+6. **Lost child.** Child stays at the lost-child point with two background-checked volunteers; announcement by tannoy without the child's name; the welfare officer is called if not resolved in 15 minutes.
+7. **Finals and presentations.** Keep to time; medals for every under-7 to under-10 player.
+8. **Close.** Litter sweep of the field and both verges, tea hut cash counted by two people and handed to the treasurer, car park cleared, pavilion locked.
+
+## Outputs
+
+- Results and a short public post by the club photographer the same evening.
+- Cash and card totals to the treasurer by Monday.
+- Notes for the debrief within two weeks.
+
+## Verification
+
+The day went right if: no car on a verge, every slot filled, every team played its scheduled games or was told why not, and the money reconciles to the budget sheet.
+
+## Guardrails
+
+No junior's name in announcements, posts or the vault. Any welfare concern goes to the welfare officer through the policy's route, never into tournament notes.
