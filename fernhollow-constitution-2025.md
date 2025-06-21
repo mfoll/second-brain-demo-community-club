@@ -1,0 +1,44 @@
+---
+type: Source
+source_type: Internal document
+date_accessed: 2025-06-14
+belongs_to: "[[govern-the-club]]"
+related_to:
+  - "[[constitution-review-2025]]"
+  - "[[officer-term-limits]]"
+  - "[[chair-succession-plan]]"
+_organized: true
+---
+
+# Fernhollow Sports and Youth Club Constitution 2025
+
+## Summary
+
+The club's governing document, adopted by members at the AGM on Saturday 14 June 2025 ([[agm-2025-06-14]]), replacing the 1998 constitution ([[fernhollow-constitution-1998]]). Fourteen clauses over nine pages. Drafted by [[joanna-pryce]], [[ravinder-sahota]] and me during the [[constitution-review-2025]].
+
+## Why It Matters
+
+> [!info]
+> Clause 7.4 is why I step down at the AGM on 12 June 2027: officers may serve six consecutive years, and the transitional clause gives those in post in June 2025 until the 2027 AGM.
+
+It is also the rulebook for the co-chair question ([[should-fernhollow-have-co-chairs]]), for minuted dissent ([[minuted-dissent]]) and for any move to incorporate, which would need a members' vote ([[club-incorporation-review]]).
+
+## Key Details
+
+- **Status (clause 1):** an unincorporated members' association, not for profit, open to all regardless of background or ability.
+- **Membership (clause 3):** junior members (under 18), adult playing members, social members. Junior members' views are heard through a youth forum, which reports to the board twice a year.
+- **The board (clause 6):** up to nine elected members, including four officers: chair, vice-chair, secretary and treasurer. The club welfare officer attends ex officio without a vote. The board may co-opt up to two members until the next AGM.
+- **Terms (clause 7):** officers elected annually at the AGM. 7.4: no officer may serve more than six consecutive years in the same office, then must stand down for at least one year. 7.5: two people may jointly hold the office of chair if the AGM so resolves. 7.6 (transitional): officers in post at adoption may serve until the AGM in 2027 regardless of prior service.
+- **Board meetings (clause 8):** at least ten a year; quorum five; decisions by simple majority of those voting; the chair has a casting vote only. 8.6: any board member may ask for their dissent from a decision to be recorded in the minutes.
+- **Conflicts (clause 9):** members declare interests, which the secretary records ([[conflict-of-interest-register]]), and leave the room for the item.
+- **General meetings (clause 10):** AGM each year by 30 June; 21 days' notice; quorum 20 members. Constitutional changes need two-thirds of those voting.
+- **Finance (clause 11):** financial year 1 January to 31 December; accounts independently examined; two signatories on payments over £500.
+- **Dissolution (clause 14):** remaining assets go to another local sports body, not to members.
+
+## Caveats
+
+The constitution says nothing about who signs a lease longer than ten years, which matters for the 30-year Millrace Lane lease ([[pitch-lease-extension]]). Joanna's reading is that the board may authorise two officers to sign, but that leaves them as the club's legal face ([[personal-liability-in-an-unincorporated-club]]).
+
+## Source Location
+
+Signed copy in the club's shared drive, `Governance/Constitution/`, with a scan in the pavilion office file. Public copy on the club website.
