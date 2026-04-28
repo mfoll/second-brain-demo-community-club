@@ -1,0 +1,17 @@
+---
+type: Event
+date: 2026-04-01
+belongs_to: "[[club-communications-plan]]"
+related_to:
+  - "[[hamza-qureshi]]"
+  - "[[club-newsletter-april-2026]]"
+_organized: true
+---
+
+# First Club Newsletter 2026-04-01
+
+The first monthly club newsletter went out on Wednesday 1 April 2026 through Clubfold to every member household. Edited by Hamza Qureshi.
+
+Contents: the fee decision explained, with the bursary mentioned and how to apply in confidence; tournament entries open; a volunteer role of the month; girls' section news; dates. Open rate 64% in the first week, the highest so far ([[club-newsletter-april-2026]]).
+
+Reaction: two emails thanking us for explaining the fee rise properly, one asking to unsubscribe (not possible for essential notices, which we explained), and three volunteers signing up for one-off tournament slots from the role of the month. Hamza's note afterwards: the issue took him nine hours, which is not sustainable. That started the search for a separate editor.
