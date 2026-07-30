@@ -1,0 +1,32 @@
+---
+type: Event
+date: 2026-07-22
+belongs_to: "[[work-with-the-community]]"
+related_to:
+  - "[[imran-sheikh]]"
+  - "[[anita-venkatesh]]"
+  - "[[sam-okonjo]]"
+_organized: true
+---
+
+# Meeting with the Residents' Association on Parking, 22 July 2026
+
+Wednesday 22 July 2026, 19:00, pavilion meeting room. Imran Sheikh and two residents from the lane; Anita Venkatesh from the council; Sam Okonjo and me for the club.
+
+## What we heard
+
+- The worst of it was the Saturday morning, 08:30 to 11:00, when teams arrived for the first round and spectators parked wherever they could.
+- Residents do not object to the tournament, only to being blocked in and to not being told.
+- One resident offered the use of a church car park about ten minutes' walk away; Imran will ask the church.
+
+## What the club said
+
+- An apology, in person, which I think mattered more than anything else we said.
+- Sam set out what went wrong: 52 teams, no overflow parking, and only two marshals, both also running pitches.
+- Ideas for 2027: overflow parking at Oakreach School (to ask), a drop-off zone, marshals, a letter to residents two weeks ahead, team arrival times staggered by age group.
+
+## Outcomes
+
+- Council to write to the club with conditions for future events (arrived 11 August, [[council-event-conditions-letter-2026-08]]).
+- Club to share a draft parking plan with the Residents' Association before Christmas 2026 ([[how-do-we-handle-tournament-parking-in-2027]]).
+- Imran said the Association would support the changing rooms grant, and did ([[letters-of-support-changing-rooms]]).
