@@ -1,0 +1,32 @@
+---
+type: Source
+source_type: Encyclopedia article
+url: https://en.wikipedia.org/wiki/Crowdfunding
+date_accessed: 2026-10-14
+licence: CC BY-SA 4.0
+belongs_to: "[[match-funding-appeal]]"
+related_to:
+  - "[[appeal-ideas-longlist]]"
+  - "[[hamza-qureshi]]"
+_organized: true
+---
+
+# Crowdfunding
+
+English Wikipedia article, last edited 21 October 2026. Licence CC BY-SA 4.0.
+
+## Summary
+
+The article describes crowdfunding as funding a project by raising money from many people, usually online, and places it within crowdsourcing and alternative finance, as a way of raising money without the usual financial intermediaries.
+
+## Why It Matters
+
+Hamza sent this in October 2026 when he suggested a crowdfunding page with a short video for the last £8,400 of the appeal ([[appeal-ideas-longlist]]). Our online giving page is already a simple version of the same thing; what a crowdfunding page would add is reach beyond our own members. We parked it until the grant decision, so we are not asking strangers to back a building that might not happen ([[match-funding-appeal]]).
+
+## Caveats
+
+Platform fees and rules vary; Claire would check them before we use one.
+
+## Source Links
+
+- [Crowdfunding](https://en.wikipedia.org/wiki/Crowdfunding)
