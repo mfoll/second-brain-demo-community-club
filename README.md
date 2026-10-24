@@ -75,6 +75,10 @@ An AI agent drafted the world specification (the club, people, projects, timelin
 
 Git history in this repository. A demo that edits notes can be reset with `git checkout .` and `git clean -fd`.
 
+## More example vaults
+
+This is one of nine fictional vaults deployed from the same template, each kept by a different kind of person: a lab head, a café owner, a teacher, a freelance designer, a parent running a household, a sports club chair, a novelist, a start-up engineering lead and an HR assistant. The [template README](https://github.com/mfoll/second-brain-template#example-vaults) lists them all.
+
 ## Licence
 
 MIT, see `LICENSE`, which also covers the template material. `THIRD_PARTY_NOTICES.txt` lists upstream notices. Cited articles remain under their own licences; the notes contain only their metadata and our own summaries.
