@@ -12,6 +12,8 @@ A demo Second Brain: about 500 linked Markdown notes holding the working memory 
 
 ![Fernhollow Club Brain in Brain Graph, coloured by the Project or Responsibility each note rolls up to](assets/fernhollow-club-brain-graph.png)
 
+**[Explore this vault in the live demo](https://mfoll.github.io/brain-graph-demo/?vault=fernhollow-club-brain)**: its map in Brain Graph, in your browser, with nothing to install.
+
 > [!warning]
 > Everything about the club is fictional: Fernhollow Sports and Youth Club, every person, the council, school, trust, governing bodies, businesses, places, decisions and figures. Any resemblance to real people or organisations is accidental. Only the Sources marked as encyclopedia articles or documentation are real.
 
